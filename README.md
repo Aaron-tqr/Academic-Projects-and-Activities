@@ -12,7 +12,6 @@ Welcome to my academic repository. This is a compilation of the key projects and
 - `TALKSHEET.txt` - Supporting notes and talksheet content.
 - `TalkSheet1` - Additional talksheet material.
 - `MACHINE PROBLEM OOP - Tuquero.pdf` - Project reference document.
-- `MACHINE PROBLEM OOP - Tuquero (1).pdf` - Additional copy of the reference document.
 
 ## Notes
 
