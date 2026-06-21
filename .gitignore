@@ -4,6 +4,12 @@ bin/
 build/
 dist/
 
+# C++ / Visual Studio build output
+*.exe
+*.obj
+*.pdb
+*.suo
+
 # NetBeans private settings
 **/nbproject/private/
 

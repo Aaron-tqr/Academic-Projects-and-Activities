@@ -4,6 +4,8 @@ Welcome to my academic repository. This is a compilation of the key projects and
 
 ## Contents
 
+- `DSA Activities/` - C++ activities and templates.
+- `Lab 09 - Tuquero (TRY AND CATCH SHORTCUT)/` - Visual Studio C# lab project.
 - `Machine Problems - Tuquero/` - Java machine problems and source files.
 - `TUQUERO-ACT1/` - Activity 1 project files and source code.
 - `Week4 - TALKSHEET/` - Week 4 talksheet exercises and source files.
