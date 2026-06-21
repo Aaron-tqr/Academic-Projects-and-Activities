@@ -1,0 +1,16 @@
+# Java build output
+*.class
+bin/
+build/
+dist/
+
+# NetBeans private settings
+**/nbproject/private/
+
+# IDE files
+.vscode/
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
