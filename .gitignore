@@ -5,3 +5,26 @@ obj/
 *.suo
 *.cache
 *.log
+
+# Java build output
+*.class
+bin/
+build/
+dist/
+
+# C++ / Visual Studio build output
+*.exe
+*.obj
+*.pdb
+*.suo
+
+# NetBeans private settings
+**/nbproject/private/
+
+# IDE files
+.vscode/
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
