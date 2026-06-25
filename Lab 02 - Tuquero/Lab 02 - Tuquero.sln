@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Lab 02 - Tuquero", "Lab 02 - Tuquero\Lab 02 - Tuquero.vbproj", "{7513347F-051D-4E58-9729-298348C47693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7513347F-051D-4E58-9729-298348C47693}.Debug|x86.ActiveCfg = Debug|x86
+		{7513347F-051D-4E58-9729-298348C47693}.Debug|x86.Build.0 = Debug|x86
+		{7513347F-051D-4E58-9729-298348C47693}.Release|x86.ActiveCfg = Release|x86
+		{7513347F-051D-4E58-9729-298348C47693}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
